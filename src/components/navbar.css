@@ -1,0 +1,18 @@
+.topnav{
+   background: rgb(223, 162, 162); 
+   /* text-decoration: none; */
+   display: flex;
+   /* text-align:center; */
+   justify-content:center;
+  
+}
+.Navlink-css{
+    text-decoration:none;
+    padding: 20px;
+}
+.Navlink-css:hover{
+    color: red;
+}
+body{
+    background: rgb(186, 185, 185);
+}

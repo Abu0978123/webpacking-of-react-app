@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    padding: auto;
+}
+.outlet{
+    display: block;
+    justify-content: space-between;
+    
+}
+.link{
+    padding: 10px;
+}
